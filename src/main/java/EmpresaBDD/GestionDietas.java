@@ -7,4 +7,5 @@ public interface GestionDietas {
     public Connection Conexion();
     public String crearTabla();
     public void rellenarTabla();
+    public void mostrarDietas();
 }
